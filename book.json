@@ -3,9 +3,6 @@
     "description": "记录一些个人学习过程中的小 Demo 作为知识点的最佳实践",
     "language": "zh-hans",
     "gitbook" : "3.2.2",
-    "links" : {
-        "sidebar" : {
-            "Blog" : "etuloser.com"
-        }
-    }
 }
+
+
