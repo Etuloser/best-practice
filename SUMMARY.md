@@ -11,7 +11,7 @@
 
 ## Python
 
-* [list 和 tuple](Python/list)
+* [list 和 tuple](Python/list.md)
 
 
 
