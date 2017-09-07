@@ -11,7 +11,6 @@
 
 ## Python
 
-* [list 和 tuple](Python/list.md)
-
+* [函数](Python/函数.md)
 
 
